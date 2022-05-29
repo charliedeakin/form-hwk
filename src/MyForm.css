@@ -1,0 +1,10 @@
+label.error {
+    display: block;
+    color: red;
+    /* etc. ... */
+  }
+
+form {
+  padding: 10px;
+}
+
